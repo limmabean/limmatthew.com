@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="54126534-4041-41f6-b726-99d4cfd489f5" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b77a3033-2c16-4a34-bc94-b4cb056d56f7" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -20,6 +25,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LimMatthewDotCom" />
+=======
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jongmook\Documents\GitHub\limmatthew.com\public\static" />
+    </key>
+>>>>>>> Stashed changes
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -37,6 +48,7 @@
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< Updated upstream
     <task active="true" id="Default" summary="Default task">
       <changelist id="54126534-4041-41f6-b726-99d4cfd489f5" name="Default Changelist" comment="" />
       <created>1579565236135</created>
@@ -55,5 +67,30 @@
       <screen x="0" y="0" width="1537" height="900" />
     </state>
     <state x="934" y="207" key="FileChooserDialogImpl/0.0.1537.900@0.0.1537.900" timestamp="1579565394932" />
+=======
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="934" y="207" key="FileChooserDialogImpl" timestamp="1579566631143">
+      <screen x="0" y="0" width="1537" height="900" />
+    </state>
+    <state x="934" y="207" key="FileChooserDialogImpl/0.0.1537.900@0.0.1537.900" timestamp="1579566631143" />
+    <state width="745" height="234" key="GridCell.Tab.0.bottom" timestamp="1579566636235">
+      <screen x="0" y="0" width="1537" height="900" />
+    </state>
+    <state width="745" height="234" key="GridCell.Tab.0.bottom/0.0.1537.900@0.0.1537.900" timestamp="1579566636235" />
+    <state width="745" height="234" key="GridCell.Tab.0.center" timestamp="1579566636234">
+      <screen x="0" y="0" width="1537" height="900" />
+    </state>
+    <state width="745" height="234" key="GridCell.Tab.0.center/0.0.1537.900@0.0.1537.900" timestamp="1579566636234" />
+    <state width="745" height="234" key="GridCell.Tab.0.left" timestamp="1579566636233">
+      <screen x="0" y="0" width="1537" height="900" />
+    </state>
+    <state width="745" height="234" key="GridCell.Tab.0.left/0.0.1537.900@0.0.1537.900" timestamp="1579566636233" />
+    <state width="745" height="234" key="GridCell.Tab.0.right" timestamp="1579566636235">
+      <screen x="0" y="0" width="1537" height="900" />
+    </state>
+    <state width="745" height="234" key="GridCell.Tab.0.right/0.0.1537.900@0.0.1537.900" timestamp="1579566636235" />
+>>>>>>> Stashed changes
   </component>
 </project>
