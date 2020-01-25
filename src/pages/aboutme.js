@@ -1,9 +1,8 @@
 import React from "react"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Container, Typography, makeStyles } from '@material-ui/core/';
-import Paper from '@material-ui/core/Paper'
+
 const useStyles = makeStyles(theme => ({
   root: {
     textAlign: 'left',

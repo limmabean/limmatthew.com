@@ -6,7 +6,7 @@ module.exports = {
   mode: 'production',
   context: __dirname,
   entry: [
-    './index.jsx',
+    './index.js',
   ],
   output: {
     path: path.join(__dirname, 'dist'),

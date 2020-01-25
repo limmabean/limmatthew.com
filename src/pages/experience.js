@@ -1,23 +1,10 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
 import { Container, Grid }from "@material-ui/core/";
-
-import OrganizationCard from "../components/organizationCard"
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import ProjectPost from "../components/projectPost";
 
-const useStyles = makeStyles(theme => ({
-}));
-
 export default function ExperiencePage() {
-  const classes = useStyles();
-  const [expanded, setExpanded] = React.useState(false);
-
-  const handleExpandClick = () => {
-    setExpanded(!expanded);
-  };
-
   return (
     <Layout pageTitle="Experience">
       <SEO title="Experience" />

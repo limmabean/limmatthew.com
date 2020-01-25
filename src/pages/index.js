@@ -1,12 +1,9 @@
 import React from "react"
-
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SideBar from "../components/sidebar"
-import Typography from '@material-ui/core/Typography';
+import { Typography, Box, Container, Grid } from '@material-ui/core/';
 import SEO from "../components/seo"
-import Box from '@material-ui/core/Box';
-import { Container, Grid } from '@material-ui/core/';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles(theme => ({

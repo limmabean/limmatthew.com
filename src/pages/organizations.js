@@ -1,12 +1,8 @@
 import React from "react"
-
-import { Container, Typography, makeStyles } from '@material-ui/core/';
-import Grid from '@material-ui/core/Grid';
+import { Container, Grid } from '@material-ui/core/';
 import Layout from "../components/layout"
 import OrganizationCard from "../components/organizationCard"
-import Paper from "@material-ui/core/Paper";
 import SEO from "../components/seo"
-import ProjectPost from "../components/projectPost"
 
 
 const organizationPage = () => {

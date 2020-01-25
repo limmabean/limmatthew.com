@@ -1,22 +1,10 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import Container from "@material-ui/core/Container";
-import Grid from "@material-ui/core/Grid";
-
+import { Container, Grid } from "@material-ui/core/";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import ProjectPost from "../components/projectPost";
 
-const useStyles = makeStyles(theme => ({
-}));
-
 export default function ProjectPage() {
-  const classes = useStyles();
-  const [expanded, setExpanded] = React.useState(false);
-
-  const handleExpandClick = () => {
-    setExpanded(!expanded);
-  };
 
   return (
     <Layout pageTitle="Projects">
